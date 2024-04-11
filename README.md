@@ -2,7 +2,7 @@
 My name is David and I am a Full-Stack Software Engineer and Musician. I've always had a passion for problem solving, and I am interested in creating software that can help people achieve their goals, in music and life in general.
 
 
-- 🔭 I’m currently working on: Creating a new instance of Musician's Base application for a well-known dubstep artist. 
+- 🔭 I’m currently working on: Creating a new instance of <a href=https://github.com/dmostoller/musicians-base">Musician's Base</a> application for a well-known dubstep artist. 
 - 🌱 I’m currently learning: Next.js, Typescript, React Native, GraphQL, Vue.js
 - 
 - 📫 How to reach me: 
