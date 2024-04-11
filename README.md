@@ -1,4 +1,4 @@
-
+![github banner2](https://github.com/dmostoller/dmostoller/assets/2243910/7de67554-503d-44be-b784-e178c1e94dbe)
 
 ### Hi there 👋
 My name is David and I am a Full-Stack Software Engineer and Musician. I've always had a passion for problem solving, and I am interested in creating software that can help people achieve their goals, in music and life in general.
@@ -6,7 +6,7 @@ My name is David and I am a Full-Stack Software Engineer and Musician. I've alwa
 - 🔭 Currently working on: Creating a new instance of [Musician's Base](https://github.com/dmostoller/musicians-base) for a well-known dubstep artist. 
 - 🌱 Currently learning: Next.js, Typescript, React Native, GraphQL, Vue.js
 - 
-- 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/david-mostoller/) | [Website]([www.davidmostoller.com](https://david-mostoller.onrender.com/)) | [Medium](https://medium.com/@dmostoller)
+- 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/david-mostoller/) | [Website](https://david-mostoller.onrender.com/) | [Medium](https://medium.com/@dmostoller)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
