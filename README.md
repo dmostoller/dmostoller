@@ -5,7 +5,8 @@ My name is David and I am a Full-Stack Software Engineer and Musician. I've alwa
 
 - 🔭 Currently working on: Creating a new instance of [Musician's Base](https://github.com/dmostoller/musicians-base) for a well-known dubstep artist. 
 - 🌱 Currently learning: Next.js, Typescript, React Native, GraphQL, Vue.js
-- 
+
+  
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/david-mostoller/) | [Website](https://david-mostoller.onrender.com/) | [Medium](https://medium.com/@dmostoller)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
