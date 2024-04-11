@@ -1,16 +1,15 @@
 ### Hi there 👋
+My name is David and I am a Full-Stack Software Engineer and Musician. I've always had a passion for problem solving, and I am interested in creating software that can help people achieve their goals, in music and life in general.
 
-<!--
-**dmostoller/dmostoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Creating a new instance of Musician's Base application for a well-known dubstep artist. 
+- 🌱 I’m currently learning: Next.js, Typescript, React Native, GraphQL
+- 
+- 📫 How to reach me: 
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
