@@ -3,9 +3,6 @@
 ### Hi there 👋
 My name is David and I am a Full-Stack Software Engineer and Musician. I've always had a passion for problem solving, and I am interested in creating software that can help people achieve their goals.
 
-- 🔭 Creating a custom chatbot using ChatGPT and llama-index to answer electronic music production questions based on content from youtube tutorial videos. 
-- 🌱 Currently learning: Typescript, React Native, GraphQL, Next.js, React Server Components
-
   
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/david-mostoller/) | [Website](https://david-mostoller.onrender.com/) | [Medium](https://medium.com/@dmostoller)
 
