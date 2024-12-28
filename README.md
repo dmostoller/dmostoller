@@ -1,4 +1,5 @@
-![github banner2](https://github.com/dmostoller/dmostoller/assets/2243910/7de67554-503d-44be-b784-e178c1e94dbe)
+![github banner2]()
+
 
 ### Hi there 👋
 My name is David, and I am a Full-Stack Software Engineer and Musician. Problem-solving and crafting software to help people achieve their goals has always been a driving force in my career. Whether it's building scalable web apps or composing music, I bring creativity and focus to everything I do.
