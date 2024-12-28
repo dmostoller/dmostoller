@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/dmostoller/dmostoller/blob/main/github-header-image.png?raw=true)
+![github-header-image](https://github.com/dmostoller/dmostoller/blob/main/github-header-image.png)
 
 
 ### Hi there 👋
