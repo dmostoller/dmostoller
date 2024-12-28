@@ -13,6 +13,7 @@ My name is David, and I am a Full-Stack Software Engineer and Musician. Problem-
 - AWS, CI/CD, Cloud Services
 - Git, GitHub
   
-- 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/david-mostoller/) | [Website](https://www.davidmostoller.com/) | [Medium](https://medium.com/@dmostoller)
+###  📫 Let's Connect: 
+[LinkedIn](https://www.linkedin.com/in/david-mostoller/) | [Website](https://www.davidmostoller.com/) | [Medium](https://medium.com/@dmostoller)
 
 
